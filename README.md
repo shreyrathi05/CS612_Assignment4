@@ -1,4 +1,4 @@
-# Sports Blogs
+# Sports
 
 This is a Single Page Application for blog posts related to sports
 I've added 3 blogs post summary on the home page. Each of this 3 posts contain title, date and
@@ -26,4 +26,4 @@ It displays the title, description and link to full story.
 # Video of running the app
 
 Here is the link to the video of running the above implemented app
-https://screencast-o-matic.com/watch/cqX3DcUxYK
+https://screencast-o-matic.com/watch/cYf0qQAODJ
